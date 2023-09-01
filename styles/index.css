@@ -35,7 +35,7 @@ body {
 .container {
    max-width: 900px;
    width: 100%;
-   padding-top: 100px;
+   padding-top: 50px;
 }
 .movie-list {
    max-width: 700px;
